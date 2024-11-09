@@ -10,7 +10,7 @@ Google Ads Enhanced Conversions with Hubspot Forms
 
 3. Google Tag Manager Publisher access
 
-###** Steps**
+### **Steps**
 
 1. Download the GTM Template container from my Github
 
