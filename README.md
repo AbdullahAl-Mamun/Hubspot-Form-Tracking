@@ -11,10 +11,17 @@ Google Ads Enhanced Conversions with Hubspot Forms
 2. Steps
 
 2.1 Download the GTM Template container from my Github
+
 2.2 Import the template into your GTM container
+
 2.3 Create a Google Ads Conversion Action
+
 2.4 Update the Conversion ID in the GTM Variable
+
 2.5 Update the Conversion Label
+
 2.6 Update the Google Tag ID
+
 2.7 Test the conversion
+
 2.8 Publish!
